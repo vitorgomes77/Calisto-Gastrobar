@@ -1,0 +1,36 @@
+CALISTO GASTROBAR — GESTÃO INTELIGENTE
+======================================
+ERP completo para gastrobar · 100% em Português (PT-BR)
+
+CONTEÚDO DO PACOTE
+------------------
+calisto-gastrobar.html  -> aplicação completa (arquivo único, autossuficiente)
+LEIA-ME.txt             -> este arquivo
+
+COMO USAR
+---------
+1. Extraia o arquivo .zip
+2. Dê um duplo clique em calisto-gastrobar.html (abre em qualquer navegador)
+3. Faça login com:
+      E-mail: admin@calisto.com.br
+      Senha:  calisto123
+
+Não precisa instalar nada, nem servidor, nem internet (apenas as fontes
+Google são carregadas online; sem conexão o sistema usa a fonte do sistema).
+
+ATALHOS
+-------
+Ctrl + K  -> Busca global
+F2        -> PDV / Caixa
+F3        -> Mesas
+Esc       -> Fechar modal / busca
+
+MÓDULOS
+-------
+Dashboard · PDV/Caixa · Mesas · Comandas · Pedidos · Cozinha (KDS) ·
+Cardápio · Estoque · Fichas Técnicas · Compras · Fornecedores · Clientes ·
+Delivery · Reservas · Promoções · Financeiro · Caixa · Funcionários ·
+Analytics (BI) · Relatórios · Notificações · Configurações
+
+Observação: os dados são de demonstração e ficam em memória — ao
+recarregar a página, o estado inicial é restaurado.

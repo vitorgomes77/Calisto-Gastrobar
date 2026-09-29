@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Calisto Gastrobar">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffbe4d"/><stop offset="1" stop-color="#d97f0e"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="120" fill="url(#g)"/>
+  <text x="256" y="345" font-family="Sora, Inter, sans-serif" font-size="290" font-weight="800" text-anchor="middle" fill="#1a1206">C</text>
+</svg>
